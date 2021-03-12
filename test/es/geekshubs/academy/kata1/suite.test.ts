@@ -1,4 +1,4 @@
-import { fizzBuzz }  from "../src/es/geekshubs/academy/kata1/geekshubs";
+import { fizzBuzz }  from "../../../../../src/es/geekshubs/academy/kata1/geekshubs";
 
 describe('Testing', function (){
 
